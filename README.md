@@ -27,4 +27,4 @@ In my setup, the yellow sensor is powered by batteries attached to the circuit/b
 
 Having the spares really helped, as the yellow sensor stopped working during the event (**!!!**) and we were able to immediately switch to the green sensor and save the demo.
 
-The web pages are a helpful addition for troubleshooting, turning the lights on and off manually, and are visible in the demo from the "Drone-Cam" page.
+The web pages are a helpful addition for troubleshooting, turning the lights on and off manually, and are visible in the demo from the [Drone-Cam](https://github.com/MichaelFitzurka/IoT-DemoJam_Drone/tree/master/iotdj-dronecam) page.
